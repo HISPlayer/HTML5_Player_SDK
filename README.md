@@ -120,7 +120,7 @@ Web Browsers
 | Firefox|  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | |
 | Opera |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | |
 
-
+<br>
 
 ## Contact
 [contact@hisplayer.com](mailto:contact@hisplayer.com)
