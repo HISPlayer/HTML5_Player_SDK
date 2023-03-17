@@ -3,11 +3,15 @@
 </p></h1>
 </br>
 
-HISPlayer HTML5 SDK is an advanced JavaScript media player for Premium OTT video services. The Player SDK is available for Web Browsers, smart TVs operating on Tizen, WebOS, Hisense VIDAA U, gaming consoles such as Xbox, and  PlayStation 4/5 devices. It offers support for HLS, MPEG-DASH, DRM, MultiSteaming, Dolby Vision, Dolby Atmos, advanced ad insertion, any third party pre-integration and many other features.  
+HISPlayer HTML5 SDK is an advanced JavaScript media player for Premium OTT video services. 
+One Player technology offers a top-notch video streaming experience within your app across a comprehensive range of devices, including Web Browsers, Tizen, WebOS, Hisense VIDAA U, Xbox, and PlayStation 4/5.
+It offers support for HLS, MPEG-DASH, multi DRM content protection, Dolby Vision, Dolby Atmos,  MultiSteam / MultiView, advanced server-side and client-side ad insertion, any third party pre-integration and many other features.  
 
 The default UI is easily customizable to fit the user’s personal preferences (e.g. icons, colors, etc).</p>
 
 This repository showcases our HTML5 Player SDK features list and platform support. To get a demo of our latest Player SDK version with full document and integration guide, contact us at our [website](https://www.hisplayer.com/html5sdk/).
+
+HISPlayer provides custom development for advanced video services. If you need any customization or desired features, let us know at our [website](https://www.hisplayer.com/demo-gaming/).
 
 ## Table of Contents
 
@@ -31,7 +35,9 @@ This repository showcases our HTML5 Player SDK features list and platform suppor
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>Server-Side and Client-Side Ad Insertion</li>
        <li>ABR and UHD video (4K and 8K)</li>
-       <li>MultiStream</li>
+       <li>Meta Data (ID3 Tags, EMSG boxes signaling) </li>
+       <li>MultiStream (Display multiple concurrent streams on one screen)</li>
+       <li>360 Video Playback and Virtual Reality (VR)</li
        </ul>
      </td>
         <tr>
@@ -48,13 +54,14 @@ This repository showcases our HTML5 Player SDK features list and platform suppor
         <li>DVR Live Streaming</li>
         <li>Picture-in-picture (browsers only)</li>
         <li>Thumbnails (internal and external)</li>
+        <li>SUBTITLES & CC (WebVTT, TTML, CEA-608/CEA-708, SRT, SSA/ASS, LRC)</li>
         <li>Chapters</li>
-       </ul>
+         </ul>
      </td>
      </tr>
      <tr>
         <td valign="top" style="text-align:center;">
-        <p style="max-width:100%;text-align:center;"><b>Advanced Features</b></p>
+        <p style="max-width:100%;text-align:center;"><b>Ad Insertion</b></p>
          </td>
      <td>
        <ul>
@@ -63,31 +70,56 @@ This repository showcases our HTML5 Player SDK features list and platform suppor
        <li>IMA SDK for Client-Side Ad Insertion</li>
        <li>IMA DAI SDK for Server-Side Ad Insertion</li>
        <li>AWS MediaTailor for Client-Side</li>
-       <li>AWS MediaTailor for Server-SideMultiStream</li>
-       <li>MultiStream</li>
-       <li>MultiView (Display Multiple Synchronized Streams)</li>
-       <li>WebVTT Subtitles & CEA-608/708 Closed Captions</li>
-       <li>Multiple Audio & Subtitle Track Selection</li>
-       <li>Spread Video Across Multiple Objects</li>
-       <li>Transparency and Chroma Support</li>
-        </ul>
+       <li>AWS MediaTailor for Server-Side</li>
+       </ul>
      </td>
      </tr>
-      <tr>
+     <tr>
         <td valign="top" style="text-align:center;">
-        <p style="max-width:100%;"><b>360 Video Playback and Virtual Reality (VR)</b></p>
+        <p style="max-width:100%;text-align:center;"><b>Content Protection</b></p>
          </td>
      <td>
        <ul>
-       <li>Touch input which includes movement, and camera rotation</li>
-       <li>Gyroscope input to move the camera</li>
-       <li>Mouse input to move the camera</li>
-       <li>Automatic Ground Leveler to stabilize the video</li>
-       <li>Custom shaders to map 2D, 3D Over/Under and 3D Left/Right 360 videos</li>
-       <li>Compatible with VR libraries for Unity (Google Cardboard, Vive & Oculus)</li>
-       </ul>
+       <li>Widevine DRM</li>
+       <li>PlayReady DRM</li>
+       <li>FairPlay DRM</li>
+       <li>ClearKey DRM</li>
+       <li>HLS AES-128</li>
+      </ul>
      </td>
      </tr>
    </tr>
  </tbody>
 </table>
+
+<br>
+
+## Supported Platforms
+
+Smart TVs & Gaming Consoles
+
+| Platform | Minimum model| HLS | DASH | HLS AES128 | Widevine DRM | PlayReady DRM|
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| Samsung Tizen  | Tizen 3.0 (2017) |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| LG WebOS |WebOS 3.0 (2016) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Hisense | VIDAA U 2.5 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Xbox | Xbox One (2013)| :heavy_check_mark:| :heavy_check_mark:|:heavy_check_mark:| | :heavy_check_mark: | 
+| PlayStation 4 | |:heavy_check_mark:|:heavy_check_mark:| :heavy_check_mark:| | :heavy_check_mark: |
+| PlayStation 5 | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: |
+
+Web Browsers
+
+| Platform | HLS | DASH | HLS AES128 | Widevine DRM | PlayReady DRM | FairPlay DRM| 
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| Google Chrome |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | |
+| Edge (Windows) |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
+| Edge (Rest) |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | |
+| Safari (macOS)|  :heavy_check_mark: |  | :heavy_check_mark: | | |:heavy_check_mark: |
+| Firefox|  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | |
+| Opera |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | |
+
+
+
+## Contact
+[contact@hisplayer.com](mailto:contact@hisplayer.com)
+
