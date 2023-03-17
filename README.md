@@ -9,7 +9,7 @@ It offers support for HLS, MPEG-DASH, multi DRM content protection, Dolby Vision
 
 The default UI is easily customizable to fit the user’s personal preferences (e.g. icons, colors, etc).</p>
 
-HISPlayer provides custom development for advanced video services. If you need any customization or desired features, let us know at our [website](https://www.hisplayer.com/demo-gaming/).
+At HISPlayer, we specialize in delivering high-quality video services tailored to your specific needs. If you have any desired features or require any specific customization, please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
 
 This repository showcases our HTML5 Player SDK features list and platform support. To get a demo of our latest Player SDK version with full document and integration guide, contact us at our [website](https://www.hisplayer.com/html5sdk/).
 
