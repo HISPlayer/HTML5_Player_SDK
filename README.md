@@ -11,7 +11,7 @@ The default UI is easily customizable to fit the user’s personal preferences (
 
 At HISPlayer, we specialize in delivering high-quality video services tailored to your specific needs. If you have any desired features or require any specific customization, please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
 
-This repository showcases our HTML5 Player SDK features list and platform support. To get a demo of our latest Player SDK version with full document and integration guide, contact us at our [website](https://www.hisplayer.com/html5sdk/).
+This repository showcases our HTML5 Player SDK features list and platform support. To get a demo of our latest Player SDK version with full document and integration guide, contact us [here](https://www.hisplayer.com/html5sdk/).
 
 <br>
 
