@@ -15,6 +15,10 @@ This repository showcases our HTML5 Player SDK features list and platform suppor
 
 <br>
 
+Here you can find [full Documentation](https://hisplayer-documentation.s3.amazonaws.com/html5/beta-0.0.9/api/index.html)
+
+<br>
+
 ## Table of Contents
 
 * **[Features](#features)**  
