@@ -129,3 +129,7 @@ Web Browsers
 ## Contact
 [contact@hisplayer.com](mailto:contact@hisplayer.com)
 
+<br>
+
+<sub><sup>HLS Player, M3U8 Player, Tizen Player, WebOS Player, PlayStation Player SDK, Xbox Player, Hisense Player, Player SDK, DASH Player, mpd, dolby, dolby passthrough, AWS Elemental MediaTailor, MediaTailor ad insertion, IMA SDK, PAL SDK, server-side ad insertion, dynamic ad insertion, 360 video, VR, AR, client-side ad insertion, external subtitles, thumbnail. </sub><sup> 
+
