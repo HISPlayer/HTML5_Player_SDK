@@ -14,7 +14,7 @@ At HISPlayer, we specialize in delivering high-quality video services tailored t
 This repository showcases our HTML5 Player SDK features list and platform support. To get a demo of our latest Player SDK version, contact us [here](https://www.hisplayer.com/html5sdk/).
 
 
-### Here you can find the [full Documentation](https://hisplayer-documentation.s3.amazonaws.com/html5/beta-0.0.9/api/index.html).
+### Here you can find the [full Documentation](https://documentation.hisplayer.com/html5/beta-0.0.9/api/index.html).
 
 <br>
 
