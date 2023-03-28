@@ -5,15 +5,13 @@
 
 HISPlayer HTML5 SDK is an advanced JavaScript media player for Premium OTT video services. 
 One Player technology offers a top-notch video streaming experience within your app across a comprehensive range of devices, including Web Browsers, Tizen, WebOS, Hisense VIDAA U, Xbox, and PlayStation 4/5.
-It offers support for HLS, MPEG-DASH, multi DRM content protection, Dolby Vision, Dolby Atmos,  MultiSteam / MultiView, advanced server-side and client-side ad insertion, any third party pre-integration and many other features.  
+It offers support for HLS, MPEG-DASH, multi DRM content protection, Dolby Vision, Dolby Atmos,  multi-stream/multi-view, advanced server-side and client-side ad insertion, any third party pre-integration and many other features.  
 
 The default UI is easily customizable to fit the user’s personal preferences (e.g. icons, colors, etc).</p>
 
 At HISPlayer, we specialize in delivering high-quality video services tailored to your specific needs. If you have any desired features or require any specific customization, please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
 
-This repository showcases our HTML5 Player SDK features list and platform support. To get a demo of our latest Player SDK version contact us [here](https://www.hisplayer.com/html5sdk/).
-
-## [Full Document](https://hisplayer-documentation.s3.amazonaws.com/html5/beta-0.0.9/api/index.html)
+This repository showcases our HTML5 Player SDK features list and platform support. To get a demo of our latest Player SDK version with full document and integration guide, contact us [here](https://www.hisplayer.com/html5sdk/).
 
 <br>
 
@@ -36,11 +34,11 @@ This repository showcases our HTML5 Player SDK features list and platform suppor
      <td>
        <ul>
        <li>mp4 download and playback</li>
-       <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
+       <li>HLS, DASH & Smooth Streaming with ABR (Adaptive Bitrate)</li>
        <li>Server-Side and Client-Side Ad Insertion</li>
        <li>ABR and UHD video (4K and 8K)</li>
-       <li>Meta Data (ID3 Tags, EMSG boxes signaling) </li>
-       <li>MultiStream (Display multiple concurrent streams on one screen)</li>
+       <li>Metadata (ID3 Tags, EMSG boxes signaling) </li>
+       <li>Multi-stream (Display multiple concurrent streams on one screen)</li>
        <li>360 Video Playback and Virtual Reality (VR)</li
        </ul>
      </td>
@@ -58,7 +56,7 @@ This repository showcases our HTML5 Player SDK features list and platform suppor
         <li>DVR Live Streaming</li>
         <li>Picture-in-picture (browsers only)</li>
         <li>Thumbnails (internal and external)</li>
-        <li>SUBTITLES & CC (WebVTT, TTML, CEA-608/CEA-708, SRT, SSA/ASS, LRC)</li>
+        <li>Subtitles & CC (WebVTT, TTML, CEA-608/CEA-708, SRT, SSA/ASS, LRC)</li>
         <li>Chapters</li>
          </ul>
      </td>
@@ -75,6 +73,7 @@ This repository showcases our HTML5 Player SDK features list and platform suppor
        <li>IMA DAI SDK for Server-Side Ad Insertion</li>
        <li>AWS MediaTailor for Client-Side</li>
        <li>AWS MediaTailor for Server-Side</li>
+       <li>AWS MediaTailor overlays</li>
        </ul>
      </td>
      </tr>
