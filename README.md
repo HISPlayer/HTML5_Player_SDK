@@ -5,7 +5,7 @@
 
 HISPlayer HTML5 SDK is an advanced JavaScript media player for Premium OTT video services. 
 One Player technology offers a top-notch video streaming experience within your app across a comprehensive range of devices, including Web Browsers, Tizen, WebOS, Hisense VIDAA U, Xbox, and PlayStation 4/5.
-It offers support for HLS, MPEG-DASH, multi DRM content protection, Dolby Vision, Dolby Atmos,  multi-stream/multi-view, advanced server-side and client-side ad insertion, any third party pre-integration and many other features.  
+It offers support for HLS, MPEG-DASH, Microsoft Smooth Streaming (only VoD) multi DRM content protection, Dolby Vision, Dolby Atmos,  multi-stream/multi-view, advanced server-side and client-side ad insertion, any third party pre-integration and many other features.  
 
 The default UI is easily customizable to fit the user’s personal preferences (e.g. icons, colors, etc).</p>
 
@@ -37,7 +37,7 @@ This repository showcases our HTML5 Player SDK features list and platform suppor
      <td>
        <ul>
        <li>mp4 download and playback</li>
-       <li>HLS, DASH & Smooth Streaming with ABR (Adaptive Bitrate)</li>
+       <li>HLS, DASH & Microsoft Smooth Streaming (only VoD) with ABR (Adaptive Bitrate)</li>
        <li>Server-Side and Client-Side Ad Insertion</li>
        <li>ABR and UHD video (4K and 8K)</li>
        <li>Metadata (ID3 Tags, EMSG boxes signaling) </li>
