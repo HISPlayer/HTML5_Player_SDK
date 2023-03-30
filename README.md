@@ -104,14 +104,14 @@ This repository showcases our HTML5 Player SDK features list and platform suppor
 
 Smart TVs & Gaming Consoles
 
-| Platform | Minimum model| HLS | DASH | HLS AES128 | Widevine DRM | PlayReady DRM|
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-| Samsung Tizen  | Tizen 3.0 (2017) |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| LG WebOS |WebOS 3.0 (2016) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Hisense | VIDAA U 2.5 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-| Xbox | Xbox One (2013)| :heavy_check_mark:| :heavy_check_mark:|:heavy_check_mark:| | :heavy_check_mark: | 
-| PlayStation 4 | |:heavy_check_mark:|:heavy_check_mark:| :heavy_check_mark:| | :heavy_check_mark: |
-| PlayStation 5 | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: |
+| Platform | Minimum model| HLS | DASH | Smooth Streaming | HLS AES128 | Widevine DRM | PlayReady DRM|
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| Samsung Tizen  | Tizen 3.0 (2017) |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| LG WebOS |WebOS 3.0 (2016) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Hisense | VIDAA U 2.5 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Xbox | Xbox One (2013)| :heavy_check_mark:| :heavy_check_mark:|:heavy_check_mark: |:heavy_check_mark:| | :heavy_check_mark: | 
+| PlayStation 4 | |:heavy_check_mark:|:heavy_check_mark:| :heavy_check_mark: |:heavy_check_mark: | | :heavy_check_mark: |
+| PlayStation 5 | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: |
 
 Web Browsers
 
