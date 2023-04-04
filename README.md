@@ -9,9 +9,9 @@ It offers among others support for HLS, MPEG-DASH, Microsoft Smooth Streaming, m
 
 The default UI is easily customizable to fit your preferences (e.g. icons, colors, etc).</p>
 
-At HISPlayer, we specialize in securing high-quality video streaming tailored to your specific needs. If you have any desired features or require any specific customization, please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
+At HISPlayer, we specialize in securing high-quality video streaming tailored to your specific needs. If you have any desired features or require any specific customization for your app., please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
 
-To get a demo of our latest Player SDK version, contact us [here](https://www.hisplayer.com/html5sdk/).
+To get a demo of our latest HTML5 Player SDK, contact us [here](https://www.hisplayer.com/html5sdk/).
 
 
 ### Here you can find the [full Documentation](https://documentation.hisplayer.com/html5/api/index.html).
