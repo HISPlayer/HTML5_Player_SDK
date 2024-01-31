@@ -3,13 +3,13 @@
 </p></h1>
 </br>
 
-HISPlayer HTML5 SDK is an advanced JavaScript media player for Premium OTT video apps. on large screens. 
+HlSPlayer HTML5 Player SDK is an advanced JavaScript media player for Premium OTT video apps. on large screens. 
 Our library supports Web Browsers, Tizen, WebOS, Hisense VIDAA U, Xbox, PlayStation 4 and PlayStation 5 apps.
 It offers among others support for HLS, MPEG-DASH, Microsoft Smooth Streaming, multi DRM content protection, Dolby Vision, Dolby Atmos, low latency, multi-stream/multi-view, advanced server-side and client-side ad insertion, any third party pre-integrations and any customization you might need.  
 
 The default UI is easily customizable to fit your preferences (e.g. icons, colors, etc).</p>
 
-At HISPlayer, we specialize in securing high-quality video streaming tailored to your specific needs. If you have any desired features or require any specific customization for your app., please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
+At HlSPlayer, we specialize in securing high-quality video streaming tailored to your specific needs. If you have any desired features or require any specific customization for your app., please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
 
 To get a demo of our latest HTML5 Player SDK, contact us [here](https://www.hisplayer.com/html5sdk/).
 
@@ -131,5 +131,5 @@ Web Browsers
 
 <br>
 
-<sub><sup>HLS Player, M3U8 Player, Tizen Player, WebOS Player, PlayStation Player SDK, Xbox Player, Hisense Player, Player SDK, DASH Player, mpd, dolby, dolby passthrough, AWS Elemental MediaTailor, MediaTailor ad insertion, IMA SDK, PAL SDK, server-side ad insertion, dynamic ad insertion, 360 video, VR, AR, client-side ad insertion, external subtitles, thumbnail, dai, dynamic ad insertion, BT sports, Bell Media, CTV, crave, TSN, RDS, HOT Telecom. </sub><sup> 
+<sub><sup>HLS Player, M3U8 Player, Tizen Player, WebOS Player, PlayStation Player SDK, Xbox Player, Hisense Player, Player SDK, DASH Player, mpd, dolby, dolby passthrough, AWS Elemental MediaTailor, MediaTailor ad insertion, IMA SDK, PAL SDK, server-side ad insertion, dynamic ad insertion, 360 video, VR, AR, client-side ad insertion, external subtitles, thumbnail, dai, dynamic ad insertion, BT sports, Bell Media, CTV, crave, TSN, RDS, HOT Telecom, Apple developer, HTTP Live Streaming (HLS).</sub><sup> 
 
