@@ -14,7 +14,7 @@ At HlSPlayer, we specialize in securing high-quality video streaming tailored to
 To get a demo of our latest HTML5 Player SDK, contact us [here](https://www.hisplayer.com/html5sdk/).
 
 
-### Here you can find the [full Documentation](https://documentation.hisplayer.com/html5/api/index.html).
+### [The complete Documentation](https://documentation.hisplayer.com/html5/api/index.html).
 
 <br>
   
