@@ -38,11 +38,12 @@ To get a demo of our latest HTML5 Player SDK, contact us [here](https://www.hisp
        <ul>
        <li>mp4 download and playback</li>
        <li>HLS, DASH & Microsoft Smooth Streaming (only VoD) with ABR (Adaptive Bitrate)</li>
+       <li>WebRTC live streaming</li>
        <li>Server-Side and Client-Side Ad Insertion</li>
        <li>ABR and UHD video (4K and 8K)</li>
        <li>Metadata (ID3 Tags, EMSG boxes signaling) </li>
        <li>Multi-stream (Display multiple concurrent streams on one screen)</li>
-       <li>360 Video Playback and Virtual Reality (VR)</li
+       <li>180, 360 Video Playback and Virtual Reality (VR)</li
        </ul>
      </td>
         <tr>
