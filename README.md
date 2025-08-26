@@ -4,10 +4,10 @@
 </br>
 
 HlSPlayer HTML5 Player SDK is an advanced JavaScript media player for Premium OTT video apps. on large screens. 
-Our library supports Web Browsers, Tizen, WebOS, Hisense VIDAA U, Xbox, PlayStation 4 and PlayStation 5 apps.
-It offers among others support for HLS, MPEG-DASH, Microsoft Smooth Streaming, multi DRM content protection, Dolby Vision, Dolby Atmos, low latency, multi-stream/multi-view, advanced server-side and client-side ad insertion, any third party pre-integrations and any customization you might need.  
+Our library supports Web Browsers, VR/AR/MR Headsets (Meta Quest), Tizen, WebOS, Hisense VIDAA U, Xbox, PlayStation 4 and PlayStation 5 apps.
+It offers among others, support for HLS, MPEG-DASH, Microsoft Smooth Streaming, multi DRM content protection, Dolby Vision, Dolby Atmos, ultra-low latency, multi-stream/multi-view, advanced server-side, server-guided, and client-side ad insertion, any third-party pre-integrations, and any customization you might need.  
 
-The default UI is easily customizable to fit your preferences (e.g. icons, colors, etc).</p>
+The default UI is easily customizable to fit your preferences (e.g., icons, colors, etc).</p>
 
 At HlSPlayer, we specialize in securing high-quality video streaming tailored to your specific needs. If you have any desired features or require any specific customization for your app., please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
 
@@ -38,11 +38,13 @@ To get a demo of our latest HTML5 Player SDK, contact us [here](https://www.hisp
        <ul>
        <li>mp4 download and playback</li>
        <li>HLS, DASH & Microsoft Smooth Streaming (only VoD) with ABR (Adaptive Bitrate)</li>
+       <li>WebRTC ultra-low latency</li>
        <li>Server-Side and Client-Side Ad Insertion</li>
+       <li>Server-Guided Ad Insertion</li>
        <li>ABR and UHD video (4K and 8K)</li>
        <li>Metadata (ID3 Tags, EMSG boxes signaling) </li>
        <li>Multi-stream (Display multiple concurrent streams on one screen)</li>
-       <li>180, 360 Video Playback and Virtual Reality (VR)</li
+       <li>180, 360, 3D Stereo, 2D Mono Video Playback and Virtual Reality (VR)</li
        </ul>
      </td>
         <tr>
