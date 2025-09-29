@@ -3,13 +3,13 @@
 </p></h1>
 </br>
 
-HlSPlayer HTML5 Player SDK is an advanced JavaScript media player for Premium OTT video apps. on large screens. 
+HlSPlayer HTML5 Player SDK is an advanced JavaScript media player for Premium OTT video apps on large screens. 
 Our library supports Web Browsers, VR/AR/MR Headsets (Meta Quest), Tizen, WebOS, Hisense VIDAA U, Xbox, PlayStation 4 and PlayStation 5 apps.
-It offers among others, support for HLS, MPEG-DASH, Microsoft Smooth Streaming, multi DRM content protection, Dolby Vision, Dolby Atmos, ultra-low latency, multi-stream/multi-view, advanced server-side, server-guided, and client-side ad insertion, any third-party pre-integrations, and any customization you might need.  
+It offers among others, support for HLS, MPEG-DASH, Microsoft Smooth Streaming, multi DRM content protection, Dolby Vision, Dolby Atmos, WebRTC ultra-low latency, multi-stream/multi-view, advanced server-side, server-guided, and client-side ad insertion, analytics, any third-party pre-integrations, and any customization you might need.  
 
 The default UI is easily customizable to fit your preferences (e.g., icons, colors, etc).</p>
 
-At HlSPlayer, we specialize in securing high-quality video streaming tailored to your specific needs. If you have any desired features or require any specific customization for your app., please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
+At HlSPlayer, we specialize in securing high-quality video streaming tailored to your specific needs. If you have any desired features or require any specific customization for your web app, please visit our [website](https://www.hisplayer.com/demo-gaming/) and let us know.
 
 To get a demo of our latest HTML5 Player SDK, contact us [here](https://www.hisplayer.com/html5sdk/).
 
